@@ -1,0 +1,3 @@
+MainPackage=C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Release\OnTheFarm2_1.1.0.1_Bundle\OnTheFarm2_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\AppPackages\OnTheFarm2_1.1.0.1_Test\OnTheFarm2_1.1.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Release\OnTheFarm2_1.1.0.1_Bundle\OnTheFarm2_1.1.0.1_scale-100.appx

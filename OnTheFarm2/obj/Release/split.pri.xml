@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="691AndrejLavrinovic.OnTheFarmforKids" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Chicken.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Chicken.xbf">
+				<Candidate type="Path">
+					<Value>Chicken.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cow.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Cow.xbf">
+				<Candidate type="Path">
+					<Value>Cow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Horse.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Horse.xbf">
+				<Candidate type="Path">
+					<Value>Horse.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OnTheFarm2.xr.xml" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/OnTheFarm2.xr.xml">
+				<Candidate type="Path">
+					<Value>OnTheFarm2.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Pig.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Pig.xbf">
+				<Candidate type="Path">
+					<Value>Pig.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Sheep.xbf" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Sheep.xbf">
+				<Candidate type="Path">
+					<Value>Sheep.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="img">
+					<NamedResource name="3plus.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/3plus.png">
+						<Candidate type="Path">
+							<Value>Assets\img\3plus.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="chicken.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/chicken.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\chicken.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cow.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/cow.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\cow.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="farm_title.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/farm_title.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\farm_title.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="horse.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/horse.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\horse.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pig.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/pig.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\pig.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sheep.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/sheep.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\sheep.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="s_iconX30.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/s_iconX30.png">
+						<Candidate type="Path">
+							<Value>Assets\img\s_iconX30.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="s_iconX50.png" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/s_iconX50.png">
+						<Candidate type="Path">
+							<Value>Assets\img\s_iconX50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="title.jpg" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/img/title.jpg">
+						<Candidate type="Path">
+							<Value>Assets\img\title.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="sounds">
+					<NamedResource name="chicken.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/chicken.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\chicken.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="chicken_story.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/chicken_story.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\chicken_story.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cow.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/cow.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\cow.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cow_story.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/cow_story.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\cow_story.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="horse.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/horse.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\horse.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="horse_story.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/horse_story.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\horse_story.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pig.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/pig.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\pig.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pig_story.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/pig_story.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\pig_story.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sheep.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/sheep.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\sheep.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sheep­_story.mp3" uri="ms-resource://691AndrejLavrinovic.OnTheFarmforKids/Files/Assets/sounds/sheep­_story.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\sheep­_story.mp3</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

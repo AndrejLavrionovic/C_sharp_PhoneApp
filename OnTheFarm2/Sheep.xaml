@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="OnTheFarm2.Sheep"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OnTheFarm2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0,12,0"
+              Background="SkyBlue">
+
+        <Image Style="{StaticResource Image}"
+                   Source="Assets/img/sheep.jpg" Tapped="Image_Tapped"/>
+
+        <MediaElement x:Name="SheepSound"
+                          Source="/Assets/sounds/sheep.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,340,0,0"
+                       Text="Sheep are kept on farms and are shorn for their fleece, which can be turned into wool."/>
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,450,0,0"
+                       Text="Baby sheep are called lambs. A male sheep is called a ram. A female sheep is called a ewe."/>
+
+        <Button Style="{StaticResource NavButton}"
+                    Content="Main Page"
+                    Margin="133,580,0,0"
+                    Height="60" Click="Button_Click_1"/>
+
+        <Button Style="{StaticResource NavButton}"
+                    Content="Back" 
+                    Margin="5,580,0,0"
+                    Height="60"
+                    Width="100" Click="Button_Click"/>
+
+        <TextBlock Style="{StaticResource Title}"
+                       Text="SHEEP" />
+
+        <Image Style="{StaticResource s_icon}"
+               Source="Assets/img/s_iconX50.png" Tapped="Image_Tapped_1"/>
+
+        <MediaElement x:Name="SheepStory"
+                          Source="/Assets/sounds/sheep_story.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+    </Grid>
+</Page>

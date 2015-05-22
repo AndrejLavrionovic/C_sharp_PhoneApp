@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="OnTheFarm2.Chicken"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OnTheFarm2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0,12,0"
+              Background="Beige">
+
+        <Image x:ConnectionId='1' Style="{StaticResource Image}"
+                   Source="Assets/img/chicken.jpg"                      />
+
+        <MediaElement x:Name="ChickenSound"
+                          Source="/Assets/sounds/chicken.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,340,0,0"
+                       Text="The chicken is a farm bird. Hens are female chickens. Roosters are male chickens. Only hens lay eggs."/>
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,450,0,0"
+                       Text="Hens can moult in autumn. Their feathers grow to keep them warm through winter."/>
+
+        <Button x:ConnectionId='2' Style="{StaticResource NavButton}"
+                    Content="Main Page"
+                    Margin="130,580,0,0"
+                    Height="60"                     />
+
+        <Button x:ConnectionId='3' Style="{StaticResource NavButton}"
+                    Content="Next" 
+                    Margin="260,580,0,0"
+                    Height="60"
+                    Width="100"                       />
+
+        <TextBlock Style="{StaticResource Title}"
+                       Text="CHICKEN" />
+
+        <Image x:ConnectionId='4' Style="{StaticResource s_icon}"
+               Source="Assets/img/s_iconX50.png"                        />
+
+        <MediaElement x:Name="ChickenStory"
+                          Source="/Assets/sounds/chicken_story.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+    </Grid>
+</Page>
+

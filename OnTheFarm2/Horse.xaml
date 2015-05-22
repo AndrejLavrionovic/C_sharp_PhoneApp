@@ -1,0 +1,62 @@
+﻿<Page
+    x:Class="OnTheFarm2.Horse"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OnTheFarm2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0,12,0"
+              Background="Azure">
+
+        <Image Style="{StaticResource Image}"
+                   Source="Assets/img/horse.jpg" Tapped="Image_Tapped"/>
+
+        <MediaElement x:Name="HorseSound"
+                          Source="/Assets/sounds/horse.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,340,0,0"
+                       Text="Horses work on the farm. They can be ridden around though they are mostly left to graze. Baby horses are called foals."/>
+
+        <TextBlock Style="{StaticResource TextBlock}"
+                       Margin="10,450,0,0"
+                       Text="Horses breathe through their noses only; they cannot breath through their mouths."/>
+
+        <Button Style="{StaticResource NavButton}"
+                    Content="Main Page"
+                    Margin="133,580,0,0"
+                    Height="60" Click="Button_Click_1"/>
+
+        <Button Style="{StaticResource NavButton}"
+                    Content="Next" 
+                    Margin="260,580,0,0"
+                    Height="60"
+                    Width="100" Click="Button_Click_2"/>
+
+        <Button Style="{StaticResource NavButton}"
+                    Content="Back" 
+                    Margin="5,580,0,0"
+                    Height="60"
+                    Width="100" Click="Button_Click"/>
+
+        <TextBlock Style="{StaticResource Title}"
+                       Text="HORSE" />
+        <Image Style="{StaticResource s_icon}"
+               Source="Assets/img/s_iconX50.png" Tapped="Image_Tapped_1"/>
+
+        <MediaElement x:Name="HorseStory"
+                          Source="/Assets/sounds/horse_story.mp3"
+                          AutoPlay="False"
+                          Volume="1"
+                          />
+
+    </Grid>
+</Page>

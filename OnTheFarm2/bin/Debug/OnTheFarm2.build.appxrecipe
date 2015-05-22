@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDREJ</Machine>
+    <WindowsUser>manag_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a0c970ce-ac88-461e-b0c8-c8b6347251b7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\OnTheFarm2.exe">
+      <PackagePath>OnTheFarm2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\3plus.png">
+      <PackagePath>Assets\img\3plus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\s_iconX30.png">
+      <PackagePath>Assets\img\s_iconX30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\s_iconX50.png">
+      <PackagePath>Assets\img\s_iconX50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\chicken.jpg">
+      <PackagePath>Assets\img\chicken.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\cow.jpg">
+      <PackagePath>Assets\img\cow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\farm_title.jpg">
+      <PackagePath>Assets\img\farm_title.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\horse.jpg">
+      <PackagePath>Assets\img\horse.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\pig.jpg">
+      <PackagePath>Assets\img\pig.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\sheep.jpg">
+      <PackagePath>Assets\img\sheep.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\img\title.jpg">
+      <PackagePath>Assets\img\title.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\chicken.mp3">
+      <PackagePath>Assets\sounds\chicken.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\chicken_story.mp3">
+      <PackagePath>Assets\sounds\chicken_story.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\cow.mp3">
+      <PackagePath>Assets\sounds\cow.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\cow_story.mp3">
+      <PackagePath>Assets\sounds\cow_story.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\horse.mp3">
+      <PackagePath>Assets\sounds\horse.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\horse_story.mp3">
+      <PackagePath>Assets\sounds\horse_story.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\pig.mp3">
+      <PackagePath>Assets\sounds\pig.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\pig_story.mp3">
+      <PackagePath>Assets\sounds\pig_story.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\sheep.mp3">
+      <PackagePath>Assets\sounds\sheep.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\Assets\sounds\sheep­_story.mp3">
+      <PackagePath>Assets\sounds\sheep­_story.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\Chicken.xbf">
+      <PackagePath>Chicken.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\Cow.xbf">
+      <PackagePath>Cow.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\Horse.xbf">
+      <PackagePath>Horse.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\Pig.xbf">
+      <PackagePath>Pig.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\Sheep.xbf">
+      <PackagePath>Sheep.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\OnTheFarm2.xr.xml">
+      <PackagePath>OnTheFarm2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manag_000\Desktop\OnTheFarm2\OnTheFarm2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
